@@ -48,7 +48,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[JavaScript project for the Math Magicians app, using webpack and ES6 features, notably modules]**
+- **[JavaScript project for the Bookstore app, using react and its components]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
