@@ -3,9 +3,36 @@
   <h1><b>Book Store</b></h1>
 
 </div>
+
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+</div>
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Book Store] <a name="about-project">Book Store</a>
+# 📖 [Book Store] 
 
 **[Book Store]** is a React project to set up the environment and tools needed to develop a React application, using webpack and ES6 features, notably modules.
 <details>
@@ -21,7 +48,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[JavaScript project for the Math Magicians app, using webpack and ES6 features, notably modules]**
+- **[JavaScript project for the Bookstore app, using react and its components]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -89,6 +116,9 @@ npm start
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Make Book Store App using React]**
+- [ ] **[Add reducers and actions]**
+- [ ] **[Use Redux in React components]**
+- [ ] **[ Connect to API]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
