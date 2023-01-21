@@ -5,7 +5,7 @@
 </div>
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Book Store] <a name="about-project">Book Store</a>
+# 📖 [Book Store] 
 
 **[Book Store]** is a React project to set up the environment and tools needed to develop a React application, using webpack and ES6 features, notably modules.
 <details>
@@ -89,6 +89,9 @@ npm start
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Make Book Store App using React]**
+- [ ] **[Add reducers and actions]**
+- [ ] **[Use Redux in React components]**
+- [ ] **[ Connect to API]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
