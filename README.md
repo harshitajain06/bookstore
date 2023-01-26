@@ -111,6 +111,19 @@ npm start
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank :
+
+https://app.zeplin.io/
+
+https://github.com/microverseinc/curriculum-react-redux/blob/main/bookstore/styling.md
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>

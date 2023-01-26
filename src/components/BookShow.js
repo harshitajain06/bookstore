@@ -7,7 +7,6 @@ const BookShow = () => (
       <h3 className="text-blue-500 pb-4">Comments  |    Remove  | Edit</h3>
 
     </div>
-    <input className="bg-blue-500 cursor-pointer mr-20 mt-14 mb-14 text-sm px-2 py-1 text-white font-bold" type="button" value="CHECK STATUS" />
 
   </div>
 );

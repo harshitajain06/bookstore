@@ -8,7 +8,7 @@ const Nav = () => (
       <h1 className="text-4xl text-blue-500 font-extrabold">Book Store CMS</h1>
       <div className="text-lg flex gap-20 ml-40">
         <Link to="/">BOOKS</Link>
-        <Link to="/categories">CATEGORIES</Link>
+        <Link to="/category">CATEGORIES</Link>
       </div>
     </nav>
 
