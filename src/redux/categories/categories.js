@@ -7,7 +7,7 @@ export const checkStatus = () => ({
 const category = (state = [], action) => {
   switch (action.type) {
     case CHECK_STATUS:
-      return 'Check Status';
+      return 'Under Construction';
     default:
       return state;
   }
