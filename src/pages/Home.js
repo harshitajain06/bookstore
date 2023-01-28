@@ -18,11 +18,11 @@ const Home = () => {
   return (
     <div>
       <h2 className="pt-20 pl-10 pr-10"><AllBooks /></h2>
-      <div className="ml-14 mt-20">
+      <div className="ml-20 mt-20 pl-6 mr-20 pb-4 pt-4 border-2 border-solid shadow-xl">
         <h1 className=" text-2xl font-semibold text-gray-600">ADD NEW BOOK</h1>
-        <form onSubmit={addBook} className="flex gap-2 mt-8">
+        <form onSubmit={addBook} className="flex justify-between gap-2 mt-8">
           <input
-            className="border-2 border-solid p-2 text-black"
+            className="border-2 border-solid p-2 w-80 text-black"
             type="text"
             placeholder="Book Title"
             onChange={(e) => setBook({
@@ -30,8 +30,8 @@ const Home = () => {
             })}
             required
           />
-          <input className="border-2 border-solid p-2 text-black" type="text" placeholder="Book Author" onChange={(e) => setBook({ ...book, author: e.target.value })} required />
-          <input className="bg-blue-500 p-2 cursor-pointer text-white font-bold" type="submit" />
+          <input className="border-2 border-solid p-2 w-80 text-black" type="text" placeholder="Book Author" onChange={(e) => setBook({ ...book, author: e.target.value })} required />
+          <input className="bg-blue-500 p-2 mr-10 cursor-pointer text-white font-bold w-40" type="submit" value="ADD BOOK" />
         </form>
       </div>
       <br />
