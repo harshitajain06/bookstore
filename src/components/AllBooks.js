@@ -10,8 +10,7 @@ const AllBooks = () => {
     dispatch(getAllBooks());
   }, [dispatch]);
   return (
-    <div className="py-10">
-      <h2 className="text-4xl font-bold py-4">Books List</h2>
+    <div className="flex flex-col gap-4 shadow-xl">
       {list.map((book) => (
         <BookShow title={book.title} author={book.author} key={book.item_id} id={book.item_id} />
       ))}
