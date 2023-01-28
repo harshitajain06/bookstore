@@ -34,7 +34,16 @@
   </ul>
 </details>
 
+## 🛠 Built With <a name="built-with"></a>
 
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
@@ -42,6 +51,16 @@
 
 - **[JavaScript project for the Bookstore app, using react and its components]**
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo Link](https://harshitajain06.github.io/bookstore/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,6 +146,25 @@ https://github.com/microverseinc/curriculum-react-redux/blob/main/bookstore/styl
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/harshitajain06/bookstore/issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please approve it.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- LICENSE -->
