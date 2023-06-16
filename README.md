@@ -60,7 +60,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://harshitajain06.github.io/bookstore/)
+- [Live Demo Link](https://bookstore-1nn8.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
